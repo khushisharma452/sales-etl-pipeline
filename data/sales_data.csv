@@ -1,0 +1,6 @@
+order_id,product,amount,date
+1,Laptop,800,2024-01-01
+2,Phone,500,2024-01-02
+3,,300,2024-01-03
+4,Tablet,,2024-01-04
+5,Headphones,150,2024-01-05

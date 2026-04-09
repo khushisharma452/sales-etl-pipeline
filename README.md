@@ -1,2 +1,7 @@
-# sales-etl-pipeline
-Built an ETL pipeline using Python and MySQL to extract, clean, and store structured sales data for efficient querying.
+# Sales ETL Pipeline
+
+This project extracts, transforms, and loads sales data into MySQL using Python.
+
+## Run
+pip install -r requirements.txt
+python etl.py
